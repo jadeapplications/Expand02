@@ -1,6 +1,6 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <block type="comment_comment" id="2" x="1" y="1">
-    <field name="TEXT">expand03 - Flash an LED on Expansion 1 (Top holes)</field>
+    <field name="TEXT">expand02 - Flash an LED on Expansion 1 (Top holes)</field>
     <next>
       <block type="controls_whileUntil" id="37" inline="false">
         <field name="MODE">UNTIL</field>
